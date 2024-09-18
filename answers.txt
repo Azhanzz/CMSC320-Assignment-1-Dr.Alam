@@ -10,3 +10,7 @@ Answer: Data science can be applied to entertainment because data can be used to
 Q3: What is the difference between merging and rebasing?
 
 Answer: Rebasing presents conflicts one commit at a time and merging presents them all at onnce.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to improve python skills
