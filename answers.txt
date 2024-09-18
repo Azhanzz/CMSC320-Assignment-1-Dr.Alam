@@ -7,3 +7,6 @@ Q2: What field could data science be applied to? Give and Example and how it mig
 
 Answer: Data science can be applied to entertainment because data can be used to send people personalized recommendations.
 
+Q3: What is the difference between merging and rebasing?
+
+Answer: Rebasing presents conflicts one commit at a time and merging presents them all at onnce.
